@@ -1,6 +1,6 @@
-Data: 18-05-2022
 
 Bom dia,
+
 Acabei de subir esse repositório como foi pedido.
 Essa é uma aplicação simples utilizando API da coinpayments, e processo de autenticação via JWT token. (fiz isso agora hehe)
 Tenho vários projetos feitos, mas devido ao sigilo profissional, não posso fornecer os apps aqui.
