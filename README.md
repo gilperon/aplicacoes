@@ -21,6 +21,8 @@ Trabalhos:
     Utilizando o JWT token de autenticação, o usuário terá acesso ao sistema financeiro, e a opção pagamento com BITCOIN e outras criptomoedas será ativado.
     
     Nesse código, o intuito é mostrar apenas a funcionalidade (backend), então o front não foi desenvolvido
+    Utilizei apenas o PHP Puro para simplificar, nao foi usado MVC e nem orientação a objeto nesse código.
+    Se quiser algo mais espefico, ou framework me diga que subo algum projeto em Laravel, usando OOP e fazendo um CRUD.
 
 
 
