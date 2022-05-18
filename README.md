@@ -22,10 +22,8 @@ Trabalhos:
     
     Nesse código, o intuito é mostrar apenas a funcionalidade (backend), então o front não foi desenvolvido
 
-    Dados de acesso para gerar seu JWT Token:
 
-    login: gustavo
-    senha: 12345
+
 
     
     COMO USAR:
