@@ -39,8 +39,10 @@ Trabalhos:
     
     
     INFORMAÇÕES:
+    
     Deixei algumas partes do código documentadas, para facilitar o entendimento.
     Existem bibliotecas prontas para gerar o token JWT (firebase/php-jwt), mas como o intuito aqui é avaliar conhecimento, fiz uma versão do zero sem precisar composer ou biblioteca exeterna que demanda várias dependencias e arquivos.
+    
     
     
     
